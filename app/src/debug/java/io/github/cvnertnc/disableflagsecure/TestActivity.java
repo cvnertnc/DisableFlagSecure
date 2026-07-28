@@ -1,4 +1,4 @@
-package io.github.lsposed.disableflagsecure;
+package io.github.cvnertnc.disableflagsecure;
 
 import android.app.Activity;
 import android.graphics.Paint;

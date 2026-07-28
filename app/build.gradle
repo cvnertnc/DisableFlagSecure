@@ -11,7 +11,7 @@ android {
     buildToolsVersion "36.1.0"
 
     defaultConfig {
-        applicationId "io.github.lsposed.disableflagsecure"
+        applicationId "io.github.cvnertnc.disableflagsecure"
         minSdkVersion 27
         targetSdkVersion 30
         versionCode rootProject.ext.commitCount
@@ -66,7 +66,7 @@ android {
 
     dependenciesInfo.includeInApk false
     enableKotlin = false
-    namespace 'io.github.lsposed.disableflagsecure'
+    namespace 'io.github.cvnertnc.disableflagsecure'
 }
 
 dependencies {
