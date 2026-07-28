@@ -6,7 +6,7 @@ updates:
       interval: daily
       time: "21:00"
     open-pull-requests-limit: 10
-    target-branch: main
+    target-branch: legacy
     registries:
       - maven-google
       - gralde-plugin
